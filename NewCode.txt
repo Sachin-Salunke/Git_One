@@ -1,0 +1,19 @@
+`git init` is a command used to create a new, empty Git repository or reinitialize an existing one in a given directory. When you run this command, it sets up a `.git` directory within the folder, which contains all the repository's metadata and version control information.
+
+### How to Use `git init`:
+
+1. **Open a terminal or command prompt.**
+2. **Navigate to your project directory** using the `cd` command:
+   ```bash
+   cd /path/to/your/project
+   ```
+3. **Run the `git init` command:**
+   ```bash
+   git init
+   ```
+
+### Result:
+- The directory will now be initialized as a Git repository.
+- You can start tracking files by adding them to the repository with `git add` and commit changes with `git commit`.
+
+Would you like to know more about initializing a repository, or anything else related to Git?
